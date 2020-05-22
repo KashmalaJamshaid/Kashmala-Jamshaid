@@ -21,5 +21,5 @@ Text Mining is a modern area in computer science study and is primarily interdis
 (v)	TD/IDF 
 ![](/images/TDIDF.jpg)
 
-3.	Word Expansion and Matching: A list of the keywords is created at the end of the preprocessing step. This list of words originated from a file created by a model operation. Single file cannot provide sufficient information to generate the knowledge elements we need for the ontology specific to a domain. To enrich vocabulary with the necessary elements of understanding, we extract related terms (synonyms) from the WordNet dictionary created by Princeton University. 
+3. Word Expansion and Matching: A list of the keywords is created at the end of the preprocessing step. This list of words originated from a file created by a model operation. Single file cannot provide sufficient information to generate the knowledge elements we need for the ontology specific to a domain. To enrich vocabulary with the necessary elements of understanding, we extract related terms (synonyms) from the WordNet dictionary created by Princeton University. 
 ![](/images/WordNet.jpg)
