@@ -1,4 +1,4 @@
-# Kashmala-Jamshaid
+<h1>Kashmala-Jamshaid</h1>
 
 # [PROJECT 1: NATURAL LANGUAGE PROCESSING TOOL](https://github.com/KashmalaJamshaid/NLP_TKINTER_GUI_USING_PYCHARM)
 
