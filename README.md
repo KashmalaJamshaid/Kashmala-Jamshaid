@@ -10,7 +10,7 @@ Text Mining is a modern area in computer science study and is primarily interdis
 ![](/images/Tokenization.jpg) 
 
 (ii)	POS tagging
-![](https://github.com/KashmalaJamshaid/Kashmala-Jamshaid/blob/master/images/POS%20tagger.jpg)
+![](/images/POS%20tagger.jpg)
 
 (iii)	Stop Words Filtering
 ![](/images/Stopwords%20Removal.jpg)
