@@ -1,5 +1,5 @@
 # **Kashmala Jamshaid**
-Master of Science In Computer Science student at Bahria University Karachi Campus.
+*Master of Science In Computer Science student at Bahria University Karachi Campus.
 
 # [Project 1: Natural Language Processing Tool](https://github.com/KashmalaJamshaid/NLP_TKINTER_GUI_USING_PYCHARM)
 
