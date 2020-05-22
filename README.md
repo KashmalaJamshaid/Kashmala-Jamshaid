@@ -6,10 +6,10 @@ Text Mining is a modern area in computer science study and is primarily interdis
 1.	Text Extraction: The required input data for this part of text mining comes in XML file format. Relevant information is extracted automatically from these input files. This text is saved to separate text files after retrieving relevant data.
 2.	Preprocessing / Text Cleansing: The next step is to clean the extracted text and this preprocessing module ensures that data is ready now for analysis process. Following preprocessing methods are involved in text cleaning.following preprocessing methods are involved in text cleaning.Following preprocessing methods are involved in text cleaning.
 (i)	Tokenization [](https://github.com/KashmalaJamshaid/Kashmala-Jamshaid/blob/master/images/Tokenization.jpg) 
-(ii)	POS tagging [](https://github.com/KashmalaJamshaid/Kashmala-Jamshaid/blob/master/images/POS%20tagger.jpg)
-(iii)	Stop Words Filtering[](https://github.com/KashmalaJamshaid/Kashmala-Jamshaid/blob/master/images/Stopwords%20Removal.jpg)
-(iv)	Lemmatization[](https://github.com/KashmalaJamshaid/Kashmala-Jamshaid/blob/master/images/Lemmatization.jpg)
-(v)	TD/IDF [](/images/TDIDF.jpg)
+(ii)	POS tagging ![](/images/POS%20tagger.jpg)
+(iii)	Stop Words Filtering ![](/images/Stopwords%20Removal.jpg)
+(iv)	Lemmatization ![](/images/Lemmatization.jpg)
+(v)	TD/IDF ![](/images/TDIDF.jpg)
 
 3.	Word Expansion and Matching: A list of the keywords is created at the end of the preprocessing step. This list of words originated from a file created by a model operation. Single file cannot provide sufficient information to generate the knowledge elements we need for the ontology specific to a domain. To enrich vocabulary with the necessary elements of understanding, we extract related terms (synonyms) from the WordNet dictionary created by Princeton University. 
-[](https://github.com/KashmalaJamshaid/Kashmala-Jamshaid/blob/master/images/WordNet.jpg)
+![](/images/WordNet.jpg)
