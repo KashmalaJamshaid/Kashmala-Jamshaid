@@ -9,7 +9,7 @@ Text Mining is a modern area in computer science study and is primarily interdis
 (ii)	POS tagging [](https://github.com/KashmalaJamshaid/Kashmala-Jamshaid/blob/master/images/POS%20tagger.jpg)
 (iii)	Stop Words Filtering[](https://github.com/KashmalaJamshaid/Kashmala-Jamshaid/blob/master/images/Stopwords%20Removal.jpg)
 (iv)	Lemmatization[](https://github.com/KashmalaJamshaid/Kashmala-Jamshaid/blob/master/images/Lemmatization.jpg)
-(v)	TD/IDF [](https://github.com/KashmalaJamshaid/Kashmala-Jamshaid/blob/master/images/TDIDF.jpg)
+(v)	TD/IDF [](/images/TDIDF.jpg)
 
 3.	Word Expansion and Matching: A list of the keywords is created at the end of the preprocessing step. This list of words originated from a file created by a model operation. Single file cannot provide sufficient information to generate the knowledge elements we need for the ontology specific to a domain. To enrich vocabulary with the necessary elements of understanding, we extract related terms (synonyms) from the WordNet dictionary created by Princeton University. 
 [](https://github.com/KashmalaJamshaid/Kashmala-Jamshaid/blob/master/images/WordNet.jpg)
